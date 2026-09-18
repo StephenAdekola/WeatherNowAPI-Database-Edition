@@ -1,8 +1,3 @@
-"""
-Seed data, used once on startup if the database is empty.
-Same cities used in Projects 1 and 2, kept consistent across the series.
-"""
-
 SEED_CITIES = [
     {
         "name": "Benin City", "country": "Nigeria",
