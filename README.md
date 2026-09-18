@@ -2,7 +2,7 @@
 The Weather Now backend, now backed by a real **PostgreSQL database** (hosted free on [Neon](https://neon.com)) instead of an in-memory dictionary. Built as Project 3 for the DecodeLabs Full Stack Development internship (3rd September - 3rd October, Cohort 2026): database integration, schema design, and full CRUD.
 
 ## Live demo
-View Live Demo [https://weathernow-api-database-edition.vercel.app/docs]
+[View the Live Demo](https://weathernow-api-database-edition.vercel.app/docs)
 
 ## What's new since Project 2
 - Data is now stored in a real Postgres database instead of resetting on every restart
